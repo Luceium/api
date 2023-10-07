@@ -1,0 +1,10 @@
+{
+    "projects": [
+        {
+            "name": "Personal Website",
+            "image": "https://luceium.github.io/api/img/website.png",
+            "description": "This is a project",
+            "technologies": ["JS", "HTML", "CSS"]
+        }
+    ]
+}
