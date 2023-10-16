@@ -2,9 +2,10 @@
     "projects": [
         {
             "name": "Personal Website",
-            "image": "https://luceium.github.io/api/API/website.png",
+            "image": "https://luceium.github.io/api/website.png",
             "description": "This is a project",
             "technologies": ["JS", "HTML", "CSS"]
         }
+
     ]
 }
