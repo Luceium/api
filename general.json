@@ -1,11 +1,47 @@
 {
     "projects": [
         {
-            "name": "Personal Website",
-            "image": "https://luceium.github.io/api/website.png",
-            "description": "This is a project",
-            "technologies": ["JS", "HTML", "CSS"]
-        }
+            "name": "Old Portfolio",
+            "image": "https://luceium.github.io/api/photo-bucket/projects/oldportfolio.png",
+            "link": "https://luceium.github.io/",
+            "description": "My first website using pure HTML, CSS, and JS. It was a great learning experience and I can confidently say that I have a deeper understanding of the fundamentals.",
+            "technologies": [{"technology":"JS", "type":"Language"}, {"technology":"HTML", "type":"Language"}, {"technology":"CSS", "type":"Language"}]
 
+        },
+        {
+            "name": "Personal Website",
+            "image": "https://luceium.github.io/api/photo-bucket/projects/website.png",
+            "link": "https://luceium.com",
+            "description": "My personal website allows me to introduce myself to the world and design a website to represent me. I also get to showcase my hobbies, skills, interests, and projects.",
+            "technologies": [{"technology":"TS", "type":"Language"}, {"technology":"HTML", "type":"Language"}, {"technology":"CSS", "type":"Language"}, {"technology":"Next.js", "type":"Framework"}, {"technology":"DaisyUI", "type":"Library"}, {"technology":"Tailwind", "type":"Framework"}, {"technology":"Vercel", "type":"Hosting"}]
+        },
+        {
+            "name": "Ray Tracer",
+            "image": "https://luceium.github.io/api/photo-bucket/projects/raytracer.png",
+            "link": "https://luceium.github.io/raytracer",
+            "description": "Ray Tracing visualizer created by coding along with David Shiffman's coding challenge 146.",
+            "technologies": [{"technology":"JS", "type":"Language"}, {"technology":"HTML", "type":"Language"}, {"technology":"CSS", "type":"Language"}, {"technology":"p5.js", "type":"Library"}]
+        },
+        {
+            "name": "TripBud",
+            "image": "https://luceium.github.io/api/photo-bucket/projects/tripbud.png",
+            "link": "vercel.com",
+            "description": "TripBud is a Budget Trip Planner to help you plan trips within a budget and keep track of who paid for what!",
+            "technologies": [{"technology":"JS", "type":"Language"}, {"technology":"HTML", "type":"Language"}, {"technology":"CSS", "type":"Language"}, {"technology":"Java", "type":"Language"}, {"technology":"Java Servlets", "type":"Library"}, {"technology":"Datastore", "type":"Database"}, {"technology":"Google Cloud", "type":"Hosting"}]
+        },
+        {
+            "name": "Scanslate",
+            "image": "https://luceium.github.io/api/photo-bucket/projects/scanslate.png",
+            "link": "https://luceium.github.io/scanslate",
+            "description": "A travelers tool for language learning. It translates detected items to spanish and makes a flashcard with the picture for you.",
+            "technologies": [{"technology":"JS", "type":"Language"}, {"technology":"HTML", "type":"Language"}, {"technology":"CSS", "type":"Language"}, {"technology":"p5.js", "type":"Library"}, {"technology":"Google Translate", "type":"API"}, {"technology":"ml5.js", "type":"Library"}, {"technology":"node.js", "type":"Language"}, {"technology":"Replit", "type":"Hosting"}]
+        },
+        {
+            "name": "Ambi Air",
+            "image": "https://luceium.github.io/api/photo-bucket/projects/ambi.png",
+            "link": "https://luceium.github.io/ambi",
+            "description": "An android app to help you save electricity, save the environment, and save your wallet! Ambi~Air is a project I built in highschool for my AP Computer Science A class final. This was my first project with Android, Firebase, Python or a RaspberryPi. It was built in 2 weeks and was a fun project. The RaspberryPi served as a weather station gathering weather data with an API and a temperature sensor. It sent the data to firebase using Python. The temperature however, was flawed. The RainbowHat's temperature sensor was directly above the CPU. I used a simple thermal transfer equation to estimate the added temperature, based on the temperature and distance of the CPU. On the other end, the Android phone running the app will see live updated temperatures obtained from Firebase. The app also does data manipulation to return a custom instruction alerting the user to open, or close windows when it would help the user get closer to their desired home temperature without using an AC or a heater.",
+            "technologies": [{"technology":"Java", "type":"Language"}, {"technology":"Android", "type":"Framework"}, {"technology":"Firebase", "type":"Database"}, {"technology":"Python", "type":"Language"}, {"technology":"RaspberryPi", "type":"Hardware"}, {"technology":"RainbowHat", "type":"Hardware"}, {"technology":"OpenWeatherMap", "type":"API"}]
+        }
     ]
 }
