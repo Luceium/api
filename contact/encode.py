@@ -13,3 +13,5 @@ def encode(file):
 if (len(sys.argv) != 2):
     print("Usage: python3 encode.py <file-path>")
     exit(1)
+
+print(encode(sys.argv[1]))
