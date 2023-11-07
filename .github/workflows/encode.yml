@@ -42,12 +42,12 @@ jobs:
         - name: Insert pronunciation into vCard
           run: |
             sed -i "s/SOUND:data:audio/ogg;base64,`cat pronunciation.base64`/g" vcard.vcf
-        
-        - name: Commit and push changes
-        run: |
-          git config --global user.email "mauriciom.curiel@gmail.com"
-          git config --global user.name "Mauricio Curiel"
 
-          git add vcard.vcf
-          git commit -m "Encoded and inserted contact photo"
-          git push
+        - name: Commit and push changes
+          run: |
+            git config --global user.email "mauriciom.curiel@gmail.com"
+            git config --global user.name "Mauricio Curiel"
+
+            git add vcard.vcf
+            git commit -m "Encoded and inserted contact photo"
+            git push
