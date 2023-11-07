@@ -1,4 +1,4 @@
-name: Encode and insert contact photo
+name: Encode and insert binaries into vCard
 
 on:
   push:
