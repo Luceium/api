@@ -12,29 +12,26 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: debugging
-        run: |
-          ls -R
-
       - name: Encode photo
         run: |
-          python contact/encode.py ./contact/profile.jpg > photo.base64
-          cat photo.base64
+          photo=$(base64 contact/profile.jpg)
+          cat $photo
 
       - name: Insert photo into vCard
         run: |
-          cat photo.base64
-          sed "s/%INSERT_PHOTO%/< photo.base64/" contact/contact.vcf
+          cat $photo
+          sed "s/%INSERT_PHOTO%/$photo/" contact/contact.vcf
           cat contact/contact.vcf
 
       - name: Encode pronunciation
         run: |
-          python contact/encode.py ./contact/pronunciation.ogg > pronunciation.base64
-          cat pronunciation.base64
+          pronunciation=$(base64 contact/profile.jpg)
+          cat $pronunciation
 
       - name: Insert pronunciation into vCard
         run: |
-          sed "s/%INSERT_PRONUNCIATION%/< pronunciation.base64/" contact/contact.vcf
+          cat $pronunciation
+          sed "s/%INSERT_PRONUNCIATION%/$pronunciation/" contact/contact.vcf
           cat contact/contact.vcf
 
       - name: Commit and push changes
