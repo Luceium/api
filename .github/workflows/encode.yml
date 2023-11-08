@@ -14,7 +14,9 @@ jobs:
 
       - name: Clear production branch
         run: |
+          git fetch
           git checkout production
+          git pull main
           git checkout main contact/contact.vcf
 
   encode_photo:
