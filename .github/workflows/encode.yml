@@ -39,5 +39,5 @@ jobs:
 
           git add contact/contact.vcf
           git commit -m "pushing production contact card"
-          git branch -M production
+          git status
           git push -f origin production
