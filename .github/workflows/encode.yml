@@ -20,7 +20,7 @@ jobs:
       - name: Insert photo into vCard
         run: |
           echo $PHOTO
-          sed "s/%INSERT_PHOTO%/$PHOTO/" contact/contact.vcf
+          sed -i "s/%INSERT_PHOTO%/$PHOTO/" contact/contact.vcf
           cat contact/contact.vcf
 
       - name: Encode pronunciation
@@ -31,7 +31,7 @@ jobs:
       - name: Insert PRONUNCIATION into vCard
         run: |
           echo $PRONUNCIATION
-          sed "s/%INSERT_PRONUNCIATION%/$PRONUNCIATION/" contact/contact.vcf
+          sed -i "s/%INSERT_PRONUNCIATION%/$PRONUNCIATION/" contact/contact.vcf
           cat contact/contact.vcf
 
       - name: Commit and push changes
