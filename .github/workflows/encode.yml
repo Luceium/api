@@ -36,8 +36,11 @@ jobs:
         run: |
           git config user.email "mauriciom.curiel@gmail.com"
           git config user.name "Mauricio Curiel"
+          echo "finished configuring git"
 
           git add contact/contact.vcf
           git commit -m "pushing production contact card"
+          echo "committed changes"
           git status
+          echo "attempting to push changes"
           git push -f origin production
