@@ -9,8 +9,8 @@ N:Curiel;Mauricio;;;
 NICKNAME:Mau
 NOTE:Mau is a Software Engineer
 FN:Mauricio Curiel
-PHOTO;MEDIATYPE=image/jpeg:https://luceium.github.io/api/profile.jpg
-SOUND;MEDIATYPE=audio/ogg:http://luceium.github.io/api/pronunciation.ogg
+PHOTO;MEDIATYPE=image/jpeg:%INSERT_PHOTO%
+SOUND;MEDIATYPE=audio/ogg:%INSERT_PRONUNCIATION%
 SOURCE:http://luceium.github.io/api/contact.vcf
 TEL;CELL:(707) 641-6129
 URL:https://luceium.com
