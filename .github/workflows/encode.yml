@@ -22,7 +22,7 @@ jobs:
 
       - name: Insert photo into vCard
         run: |
-          sed "s/%INSERT_PHOTO%/< photo.base64" contact/contact.vcf
+          sed "s/%INSERT_PHOTO%/< photo.base64/" contact/contact.vcf
 
       - name: Encode pronunciation
         run: |
@@ -30,7 +30,7 @@ jobs:
 
       - name: Insert pronunciation into vCard
         run: |
-          sed "s/%INSERT_PRONUNCIATION%/< pronunciation.base64" contact/contact.vcf
+          sed "s/%INSERT_PRONUNCIATION%/< pronunciation.base64/" contact/contact.vcf
 
       - name: Commit and push changes
         run: |
