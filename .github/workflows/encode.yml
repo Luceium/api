@@ -15,15 +15,13 @@ jobs:
       - name: Insert photo into vCard
         run: |
           PHOTO=$(base64 contact/profile.jpg)
-          echo $PHOTO
-          sed -i "s/%INSERT_PHOTO%/$PHOTO/" contact/contact.vcf
+          awk -v photo="$PHOTO" '{gsub("%INSERT_PHOTO%", photo)}1' contact/contact.vcf > contact/contact.vcf
           cat contact/contact.vcf
 
       - name: Insert pronunciation into vCard
         run: |
           PRONUNCIATION=$(base64 contact/profile.jpg)
-          echo $PRONUNCIATION
-          sed -i "s/%INSERT_PRONUNCIATION%/$PRONUNCIATION/" contact/contact.vcf
+          awk -v pronunciation="$PRONUNCIATION" '{gsub("%INSERT_PHOTO%", pronunciation)}1' contact/contact.vcf > contact/contact.vcf
           cat contact/contact.vcf
 
       - name: Commit and push changes
