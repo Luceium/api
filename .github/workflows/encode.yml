@@ -23,7 +23,8 @@ jobs:
 
       - name: Insert photo into vCard
         run: |
-          sed "s/%INSERT_PHOTO%/< photo.base64/" contact/contact.vcf | cat > contact/contact.vcf
+          cat photo.base64
+          sed "s/%INSERT_PHOTO%/< photo.base64/" contact/contact.vcf
           cat contact/contact.vcf
 
       - name: Encode pronunciation
