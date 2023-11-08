@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Insert photo into vCard
+      - name: Embed encoded contact media
         run: python3 contact/encode.py
 
       - name: Commit and push changes
