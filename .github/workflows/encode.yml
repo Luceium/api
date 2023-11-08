@@ -16,7 +16,7 @@ jobs:
         run: |
           git fetch
           git checkout production
-          git pull main
+          git pull origin main
           git checkout main contact/contact.vcf
 
   encode_photo:
