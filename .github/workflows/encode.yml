@@ -12,9 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: debugging
+        run: |
+          ls -R
+
       - name: Encode photo
         run: |
-          python contact/encode.py /contact/profile.jpg > photo.base64
+          python contact/encode.py ./contact/profile.jpg > photo.base64
 
       - name: Insert photo into vCard
         run: |
@@ -22,7 +26,7 @@ jobs:
 
       - name: Encode pronunciation
         run: |
-          python contact/encode.py /contact/pronunciation.ogg > pronunciation.base64
+          python contact/encode.py ./contact/pronunciation.ogg > pronunciation.base64
 
       - name: Insert pronunciation into vCard
         run: |
