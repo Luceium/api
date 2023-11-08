@@ -19,18 +19,22 @@ jobs:
       - name: Encode photo
         run: |
           python contact/encode.py ./contact/profile.jpg > photo.base64
+          cat photo.base64
 
       - name: Insert photo into vCard
         run: |
           sed "s/%INSERT_PHOTO%/< photo.base64/" contact/contact.vcf
+          cat contact/contact.vcf
 
       - name: Encode pronunciation
         run: |
           python contact/encode.py ./contact/pronunciation.ogg > pronunciation.base64
+          cat pronunciation.base64
 
       - name: Insert pronunciation into vCard
         run: |
           sed "s/%INSERT_PRONUNCIATION%/< pronunciation.base64/" contact/contact.vcf
+          cat contact/contact.vcf
 
       - name: Commit and push changes
         run: |
