@@ -1,0 +1,61 @@
+name: encodePhoto
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  clear_production:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Clear production branch
+        run: |
+          git checkout production
+          git checkout main contact/contact.vcf
+
+  encode_photo:
+    needs: clear_production
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Encode photo
+        run: |
+          python contact/encode.py /contact/profile.jpg > contact_photo.base64
+
+      - name: Insert photo into vCard
+        run: |
+          sed -i "s/PHOTO;ENCODING=BASE64;TYPE=JPEG:/PHOTO;ENCODING=BASE64;TYPE=JPEG:`cat contact_photo.base64`/g" contact/contact.vcf
+
+  encode_pronunciation:
+    needs: clear_production
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Encode pronunciation
+        run: |
+          python contact/encode.py /contact/pronunciation.ogg > pronunciation.base64
+
+      - name: Insert pronunciation into vCard
+        run: |
+          sed -i "s/SOUND:data:audio\/ogg;base64,/SOUND:data:audio\/ogg;base64,`cat pronunciation.base64`/g" contact/contact.vcf
+
+  push:
+    needs: [encode_photo, encode_pronunciation]
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "mauriciom.curiel@gmail.com"
+          git config --global user.name "Mauricio Curiel"
+
+          git add contact/contact.vcf
+          git commit -m "pushing production contact card"
+          git checkout production
+          git push production
