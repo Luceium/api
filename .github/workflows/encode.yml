@@ -26,4 +26,5 @@ jobs:
           git commit -m "pushing production contact card"
           echo "committed changes"
           echo "attempting to push changes"
+          git checkout -b production
           git push origin production -f
