@@ -13,16 +13,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Insert photo into vCard
-        run: |
-          PHOTO=$(base64 contact/profile.jpg)
-          awk -v photo="$PHOTO" '{gsub("%INSERT_PHOTO%", photo)}1' contact/contact.vcf > contact/contact.vcf
-          cat contact/contact.vcf
-
-      - name: Insert pronunciation into vCard
-        run: |
-          PRONUNCIATION=$(base64 contact/profile.jpg)
-          awk -v pronunciation="$PRONUNCIATION" '{gsub("%INSERT_PHOTO%", pronunciation)}1' contact/contact.vcf > contact/contact.vcf
-          cat contact/contact.vcf
+        run: python3 contact/encode.py
 
       - name: Commit and push changes
         run: |
