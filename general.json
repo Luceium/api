@@ -42,6 +42,13 @@
             "link": "https://luceium.github.io/ambi",
             "description": "An android app to help you save electricity, save the environment, and save your wallet! Ambi~Air is a project I built in highschool for my AP Computer Science A class final. This was my first project with Android, Firebase, Python or a RaspberryPi. It was built in 2 weeks and was a fun project. The RaspberryPi served as a weather station gathering weather data with an API and a temperature sensor. It sent the data to firebase using Python. The temperature however, was flawed. The RainbowHat's temperature sensor was directly above the CPU. I used a simple thermal transfer equation to estimate the added temperature, based on the temperature and distance of the CPU. On the other end, the Android phone running the app will see live updated temperatures obtained from Firebase. The app also does data manipulation to return a custom instruction alerting the user to open, or close windows when it would help the user get closer to their desired home temperature without using an AC or a heater.",
             "technologies": [{"technology":"Java", "type":"Language"}, {"technology":"Android", "type":"Framework"}, {"technology":"Firebase", "type":"Database"}, {"technology":"Python", "type":"Language"}, {"technology":"RaspberryPi", "type":"Hardware"}, {"technology":"RainbowHat", "type":"Hardware"}, {"technology":"OpenWeatherMap", "type":"API"}]
+        },
+        {
+            "name": "Edlyft Weather",
+            "image": "https://luceium.github.io/api/photo-bucket/projects/edlyftWeather.png",
+            "link": "https://luceium.github.io/Edlyft-Weather-Display-Project/",
+            "description": "A weather display project that uses OpenWeatherAPI. This project was built to teaach students at Edlyft how to use APIs, html, css, and javascript. I created 2 levels of scaffolding and instructions to go with them. The incomplete versions can be found on the branches of this repo. The instructions are Edlyft's property and are not included in this repo. I was able to lead students in the advanced session with no scaffolding. I designed the project and curriculum.",
+            "technologies": [{"technology":"JS", "type":"Language"}, {"technology":"HTML", "type":"Language"}, {"technology":"CSS", "type":"Language"}, {"technology":"OpenWeatherAPI", "type":"API"}]
         }
     ]
 }
