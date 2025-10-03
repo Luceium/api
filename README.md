@@ -6,8 +6,6 @@ There will also be JSON files with general information.
 
 # Usage
 
-Access all files with the prefix `https://luceium.github.io/api/`.
+Access all files with the prefix `https://luceium.com/api/`.
 Append the appropriate file including it's file type.
-ex. `fetch('https://luceium.github.io/api/contact.vcf');`
-
-_Note after migration, the prefix will just be `https://luceium.com`_
+ex. `fetch('https://luceium.com/api/contact.vcf');`
