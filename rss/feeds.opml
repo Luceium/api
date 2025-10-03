@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  This OPML file is used by the Feeder app (https://feeder.co) to import RSS feeds.
+  You can edit it with any text editor, or use an OPML editor like https://opmleditor.com/
+  More info about Feeder's OPML format: https://help.feeder.co/en/articles/4623251-opml-import-export
+
+  Categories can be created by adding an outline element with title and text attributes,
+  and nesting feed outlines inside it.
+
+  Feeder-specific attributes:
+    feeder:notify="true|false" - whether to enable notifications for this feed
+    feeder:imageUrl="URL" - URL of the feed's image/icon
+    feeder:fullTextByDefault="true|false" - whether to load full text by default for this feed
+    feeder:openArticlesWith="app name" - app to open articles with, e.g. "Safari", "Firefox", "Chrome", "Edge", "InApp", "" (empty string for default)
+    feeder:alternateId="true|false" - whether to use alternate ID for articles (helps avoid duplicates when a feed changes URL)
+
+  Default skeleton feed outline:
+    <outline feeder:notify="true" feeder:imageUrl="TODO" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="TODO" text="Feed Title" type="rss" xmlUrl="TODO"/>
+ -->
+<opml version="1.1" xmlns:feeder="https://nononsenseapps.com/feeder">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline feeder:notify="false" feeder:imageUrl="https://amazonses.luma-mail.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Luma SF Events" text="Luma SF Events" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/m1110wo5n2r06c51175y.xml"/>
+    <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Roots of Progress" text="Roots of Progress" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/hwtfucmhwx8njuant190.xml"/>
+    <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Super Power Health" text="Super Power Health" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/rzh1x9iuxjutcma3mur6.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://tldr.tech/tldrsquare.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="TLDR RSS Feed" text="TLDR RSS Feed" type="rss" xmlUrl="https://tldr.tech/api/rss/tech"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/23043e0b-1a8b-4e75-85b4-a980ed68d059/143861144.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="The AI Timeline" text="The AI Timeline" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/Vy37NcFo03.xml"/>
+    <outline feeder:notify="true" feeder:imageUrl="https://thisweek.gnome.org/images/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="This Week in GNOME" text="This Week in GNOME" type="rss" xmlUrl="https://thisweek.gnome.org/index.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://mlsend.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="a1.gallery" text="a1.gallery" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/a9govy5zddt36u900wg0.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://news.ycombinator.com/y18.svg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Hacker News" text="Hacker News" type="rss" xmlUrl="https://hnrss.org/frontpage?points=100&amp;comments=25"/>
+    <feeder:settings>
+      <feeder:setting key="pref_added_feeder_news" value="true"/>
+    </feeder:settings>
+  </body>
+</opml>
