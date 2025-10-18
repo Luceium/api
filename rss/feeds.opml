@@ -145,11 +145,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Lfb5wvuqFXaEiEJtJYAYg"
       htmlUrl="https://www.youtube.com/channel/UC9Lfb5wvuqFXaEiEJtJYAYg"
       title="Shaun Boyd Made This" />
-    <outline text="SCE SJSU"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY4KDJ7fUrHf5r1sqQWnMVg"
-      htmlUrl="https://www.youtube.com/channel/UCY4KDJ7fUrHf5r1sqQWnMVg"
-      title="SCE SJSU" />
     <outline text="The Coding Train"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvjgXvBlbQiydffZU7m1_aw"
