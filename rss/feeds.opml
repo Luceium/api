@@ -175,11 +175,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow"
       htmlUrl="https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow"
       title="SciShow" />
-    <outline text="Smart Home Solver"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwOBG77Tm8cE24FPxHb_abw"
-      htmlUrl="https://www.youtube.com/channel/UCwOBG77Tm8cE24FPxHb_abw"
-      title="Smart Home Solver" />
     <outline text="Drew Builds Stuff"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC073quTeFarhKNe8ZuC6Qig"
@@ -335,11 +330,6 @@
       xmlUrl="https://www.reddit.com/r/PersonalWebsite/top.rss?t=month&amp;limit=10"
       htmlUrl="https://www.reddit.com/r/PersonalWebsite/top?t=month"
       title="PersonalWebsite" />
-    <outline text="smarthome"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/smarthome/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/smarthome/top?t=month"
-      title="smarthome" />
     <outline text="androiddev"
       type="rss"
       xmlUrl="https://www.reddit.com/r/androiddev/top.rss?t=month&amp;limit=10"
@@ -360,16 +350,6 @@
       xmlUrl="https://www.reddit.com/r/ProductHunters/top.rss?t=month&amp;limit=10"
       htmlUrl="https://www.reddit.com/r/ProductHunters/top?t=month"
       title="ProductHunters" />
-    <outline text="pihole"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/pihole/top.rss?t=month&amp;limit=3"
-      htmlUrl="https://www.reddit.com/r/pihole/top?t=month"
-      title="pihole" />
-    <outline text="selfhosted"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/selfhosted/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/selfhosted/top?t=month"
-      title="selfhosted" />
     <outline text="technology"
       type="rss"
       xmlUrl="https://www.reddit.com/r/technology/top.rss?t=month&amp;limit=10"
@@ -470,11 +450,6 @@
       xmlUrl="https://www.reddit.com/r/hardwarehacking/top.rss?t=month&amp;limit=10"
       htmlUrl="https://www.reddit.com/r/hardwarehacking/top?t=month"
       title="hardwarehacking" />
-    <outline text="HomeServer"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/HomeServer/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/HomeServer/top?t=month"
-      title="HomeServer" />
     <outline text="KotlinMultiplatform"
       type="rss"
       xmlUrl="https://www.reddit.com/r/KotlinMultiplatform/top.rss?t=month&amp;limit=5"
@@ -525,6 +500,31 @@
         title="opensource" />
     </outline>
     <outline text="Smart Home &amp; Automation" title="Smart Home &amp; Automation">
+      <outline text="Smart Home Solver"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwOBG77Tm8cE24FPxHb_abw"
+        htmlUrl="https://www.youtube.com/channel/UCwOBG77Tm8cE24FPxHb_abw"
+        title="Smart Home Solver" />
+      <outline text="smarthome"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/smarthome/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/smarthome/top?t=month"
+        title="smarthome" />
+      <outline text="pihole"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/pihole/top.rss?t=month&amp;limit=3"
+        htmlUrl="https://www.reddit.com/r/pihole/top?t=month"
+        title="pihole" />
+      <outline text="selfhosted"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/selfhosted/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/selfhosted/top?t=month"
+        title="selfhosted" />
+      <outline text="HomeServer"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/HomeServer/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/HomeServer/top?t=month"
+        title="HomeServer" />
     </outline>
     <outline text="Hardware &amp; DIY/Makers" title="Hardware &amp; DIY/Makers">
     </outline>
