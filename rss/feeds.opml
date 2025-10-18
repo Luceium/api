@@ -554,5 +554,31 @@
         htmlUrl="https://www.reddit.com/r/battlestations/top?t=month"
         title="battlestations" />
     </outline>
+    <outline text="Technology &amp; Software Development" title="Technology &amp; Software Development">
+    </outline>
+    <outline text="Linux &amp; Open Source" title="Linux &amp; Open Source">
+    </outline>
+    <outline text="Smart Home &amp; Automation" title="Smart Home &amp; Automation">
+    </outline>
+    <outline text="Hardware &amp; DIY/Makers" title="Hardware &amp; DIY/Makers">
+    </outline>
+    <outline text="Virtual Reality &amp; Gaming" title="Virtual Reality &amp; Gaming">
+    </outline>
+    <outline text="Science &amp; Education" title="Science &amp; Education">
+    </outline>
+    <outline text="Futurism" title="Futurism">
+    </outline>
+    <outline text="Earth" title="Earth">
+    </outline>
+    <outline text="Urban Design &amp; Architecture" title="Urban Design &amp; Architecture">
+    </outline>
+    <outline text="Entrepreneurship &amp; Startups" title="Entrepreneurship &amp; Startups">
+    </outline>
+    <outline text="Lifestyle &amp; Wellness" title="Lifestyle &amp; Wellness">
+    </outline>
+    <outline text="Local/Events" title="Local/Events">
+    </outline>
+    <outline text="Fiction" title="Fiction">
+    </outline>
   </body>
 </opml>
