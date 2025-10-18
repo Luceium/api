@@ -15,11 +15,6 @@
       xmlUrl="https://tldr.tech/api/rss/tech"
       htmlUrl="https://tldr.tech/"
       title="TLDR RSS Feed" />
-    <outline text="The Linux Experience Podcast"
-      type="rss"
-      xmlUrl="https://podcast.thelinuxexp.com/@tlenewspodcast/feed.xml"
-      htmlUrl="https://podcast.thelinuxexp.com/@tlenewspodcast"
-      title="The Linux Experience Podcast" />
     <outline text="Luma SF Events"
       type="rss"
       xmlUrl="https://kill-the-newsletter.com/feeds/m1110wo5n2r06c51175y.xml"
@@ -40,11 +35,6 @@
       xmlUrl="https://hnrss.org/frontpage?points=100&amp;comments=25"
       htmlUrl="https://news.ycombinator.com/"
       title="Hacker News" />
-    <outline text="This Week in GNOME"
-      type="rss"
-      xmlUrl="https://thisweek.gnome.org/index.xml"
-      htmlUrl="https://thisweek.gnome.org/"
-      title="This Week in GNOME" />
     <outline text="The AI Timeline"
       type="rss"
       xmlUrl="https://rss.beehiiv.com/feeds/Vy37NcFo03.xml"
@@ -155,11 +145,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwBhBDsqiQflTMLy2epbQVw"
       htmlUrl="https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw"
       title="Emergent Garden" />
-    <outline text="Learn Linux TV"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA"
-      htmlUrl="https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA"
-      title="Learn Linux TV" />
     <outline text="bitsbits"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBs6FdG_17LHlydJbzY8FMQ"
@@ -200,11 +185,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UConVfxXodg78Tzh5nNu85Ew"
       htmlUrl="https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew"
       title="Welch Labs" />
-    <outline text="Jeff Geerling"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg"
-      htmlUrl="https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg"
-      title="Jeff Geerling" />
     <outline text="SciShow"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow"
@@ -450,16 +430,6 @@
       xmlUrl="https://www.reddit.com/r/GooglePixel/top.rss?t=month&amp;limit=5"
       htmlUrl="https://www.reddit.com/r/GooglePixel/top?t=month"
       title="GooglePixel" />
-    <outline text="linux"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/linux/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/linux/top?t=month"
-      title="linux" />
-    <outline text="linux4noobs"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/linux4noobs/top.rss?t=month&amp;limit=5"
-      htmlUrl="https://www.reddit.com/r/linux4noobs/top?t=month"
-      title="linux4noobs" />
     <outline text="functionalprint"
       type="rss"
       xmlUrl="https://www.reddit.com/r/functionalprint/top.rss?t=month&amp;limit=10"
@@ -530,11 +500,6 @@
       xmlUrl="https://www.reddit.com/r/KotlinMultiplatform/top.rss?t=month&amp;limit=5"
       htmlUrl="https://www.reddit.com/r/KotlinMultiplatform/top?t=month"
       title="KotlinMultiplatform" />
-    <outline text="opensource"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/opensource/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/opensource/top?t=month"
-      title="opensource" />
     <outline text="Neotropolis"
       type="rss"
       xmlUrl="https://www.reddit.com/r/Neotropolis/top.rss?t=month&amp;limit=5"
@@ -546,8 +511,43 @@
       htmlUrl="https://www.reddit.com/r/battlestations/top?t=month"
       title="battlestations" />
     <outline text="Technology &amp; Software Development" title="Technology &amp; Software Development">
+      <outline text="Jeff Geerling"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg"
+        htmlUrl="https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg"
+        title="Jeff Geerling" />
     </outline>
     <outline text="Linux &amp; Open Source" title="Linux &amp; Open Source">
+      <outline text="The Linux Experience Podcast"
+        type="rss"
+        xmlUrl="https://podcast.thelinuxexp.com/@tlenewspodcast/feed.xml"
+        htmlUrl="https://podcast.thelinuxexp.com/@tlenewspodcast"
+        title="The Linux Experience Podcast" />
+      <outline text="This Week in GNOME"
+        type="rss"
+        xmlUrl="https://thisweek.gnome.org/index.xml"
+        htmlUrl="https://thisweek.gnome.org/"
+        title="This Week in GNOME" />
+      <outline text="Learn Linux TV"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA"
+        htmlUrl="https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA"
+        title="Learn Linux TV" />
+      <outline text="linux"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/linux/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/linux/top?t=month"
+        title="linux" />
+      <outline text="linux4noobs"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/linux4noobs/top.rss?t=month&amp;limit=5"
+        htmlUrl="https://www.reddit.com/r/linux4noobs/top?t=month"
+        title="linux4noobs" />
+      <outline text="opensource"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/opensource/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/opensource/top?t=month"
+        title="opensource" />
     </outline>
     <outline text="Smart Home &amp; Automation" title="Smart Home &amp; Automation">
     </outline>
