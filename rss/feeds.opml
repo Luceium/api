@@ -10,11 +10,6 @@
       xmlUrl="https://tldr.tech/api/rss/tech"
       htmlUrl="https://tldr.tech/"
       title="TLDR RSS Feed" />
-    <outline text="Luma SF Events"
-      type="rss"
-      xmlUrl="https://kill-the-newsletter.com/feeds/m1110wo5n2r06c51175y.xml"
-      htmlUrl="https://kill-the-newsletter.com/feeds/m1110wo5n2r06c51175y.xml"
-      title="Luma SF Events" />
     <outline text="a1.gallery"
       type="rss"
       xmlUrl="https://kill-the-newsletter.com/feeds/a9govy5zddt36u900wg0.xml"
@@ -490,11 +485,6 @@
       xmlUrl="https://www.reddit.com/r/KotlinMultiplatform/top.rss?t=month&amp;limit=5"
       htmlUrl="https://www.reddit.com/r/KotlinMultiplatform/top?t=month"
       title="KotlinMultiplatform" />
-    <outline text="Neotropolis"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/Neotropolis/top.rss?t=month&amp;limit=5"
-      htmlUrl="https://www.reddit.com/r/Neotropolis/top?t=month"
-      title="Neotropolis" />
     <outline text="battlestations"
       type="rss"
       xmlUrl="https://www.reddit.com/r/battlestations/top.rss?t=month&amp;limit=10"
@@ -568,6 +558,16 @@
         title="Pick Up Limes" />
     </outline>
     <outline text="Local/Events" title="Local/Events">
+      <outline text="Luma SF Events"
+        type="rss"
+        xmlUrl="https://kill-the-newsletter.com/feeds/m1110wo5n2r06c51175y.xml"
+        htmlUrl="https://kill-the-newsletter.com/feeds/m1110wo5n2r06c51175y.xml"
+        title="Luma SF Events" />
+      <outline text="Neotropolis"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/Neotropolis/top.rss?t=month&amp;limit=5"
+        htmlUrl="https://www.reddit.com/r/Neotropolis/top?t=month"
+        title="Neotropolis" />
     </outline>
     <outline text="Fiction" title="Fiction">
     </outline>
