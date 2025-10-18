@@ -15,11 +15,6 @@
       xmlUrl="https://kill-the-newsletter.com/feeds/a9govy5zddt36u900wg0.xml"
       htmlUrl="https://kill-the-newsletter.com/feeds/a9govy5zddt36u900wg0.xml"
       title="a1.gallery" />
-    <outline text="Roots of Progress"
-      type="rss"
-      xmlUrl="https://kill-the-newsletter.com/feeds/hwtfucmhwx8njuant190.xml"
-      htmlUrl="https://kill-the-newsletter.com/feeds/hwtfucmhwx8njuant190.xml"
-      title="Roots of Progress" />
     <outline text="Hacker News"
       type="rss"
       xmlUrl="https://hnrss.org/frontpage?points=100&amp;comments=25"
@@ -85,11 +80,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3QqyWSWgHTLJYc0Wm8agaA"
       htmlUrl="https://www.youtube.com/channel/UC3QqyWSWgHTLJYc0Wm8agaA"
       title="Crash Makerspace" />
-    <outline text="Freethink"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UConJDkGk921yT9hISzFqpzw"
-      htmlUrl="https://www.youtube.com/channel/UConJDkGk921yT9hISzFqpzw"
-      title="Freethink" />
     <outline text="bycloud"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgfe2ooZD3VJPB6aJAnuQng"
@@ -120,11 +110,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Lfb5wvuqFXaEiEJtJYAYg"
       htmlUrl="https://www.youtube.com/channel/UC9Lfb5wvuqFXaEiEJtJYAYg"
       title="Shaun Boyd Made This" />
-    <outline text="Undecided with Matt Ferrell"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg"
-      htmlUrl="https://www.youtube.com/channel/UCjtUS7-SZTi6pXjUbzGHQCg"
-      title="Undecided with Matt Ferrell" />
     <outline text="Beyond Fireship"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Xd-TjJByJyK2w1zNwY0zQ"
@@ -175,11 +160,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFR-QlAx0qFHN9-QmcrpHnQ"
       htmlUrl="https://www.youtube.com/channel/UCFR-QlAx0qFHN9-QmcrpHnQ"
       title="Pezzza&apos;s Work" />
-    <outline text="Dr Ben Miles"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUeZBocfxALSUdOgNJB5ySA"
-      htmlUrl="https://www.youtube.com/channel/UCUeZBocfxALSUdOgNJB5ySA"
-      title="Dr Ben Miles" />
     <outline text="Two Minute Papers"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
@@ -200,11 +180,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJm2TgUqtK1_NLBrjNQ1P-w"
       htmlUrl="https://www.youtube.com/channel/UCJm2TgUqtK1_NLBrjNQ1P-w"
       title="Second Thought" />
-    <outline text="The Space Race"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeMcDx6-rOq_RlKSPehk2tQ"
-      htmlUrl="https://www.youtube.com/channel/UCeMcDx6-rOq_RlKSPehk2tQ"
-      title="The Space Race" />
     <outline text="Mossy Earth"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1OLx7nzJgIqwpDzFFrTuLA"
@@ -225,16 +200,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX981hh-RI_L1QOwV08osNA"
       htmlUrl="https://www.youtube.com/channel/UCX981hh-RI_L1QOwV08osNA"
       title="Aaed Musa" />
-    <outline text="Tomorrow&apos;s Build"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN3aYbtQ7yCqk9DM56B0kEw"
-      htmlUrl="https://www.youtube.com/channel/UCN3aYbtQ7yCqk9DM56B0kEw"
-      title="Tomorrow&apos;s Build" />
-    <outline text="Solve"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWZSOxQoUdAqwoYsDzl8ycg"
-      htmlUrl="https://www.youtube.com/channel/UCWZSOxQoUdAqwoYsDzl8ycg"
-      title="Solve" />
     <outline text="esp32"
       type="rss"
       xmlUrl="https://www.reddit.com/r/esp32/top.rss?t=month&amp;limit=10"
@@ -463,6 +428,41 @@
     <outline text="Science &amp; Education" title="Science &amp; Education">
     </outline>
     <outline text="Futurism" title="Futurism">
+      <outline text="Roots of Progress"
+        type="rss"
+        xmlUrl="https://kill-the-newsletter.com/feeds/hwtfucmhwx8njuant190.xml"
+        htmlUrl="https://kill-the-newsletter.com/feeds/hwtfucmhwx8njuant190.xml"
+        title="Roots of Progress" />
+      <outline text="Freethink"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UConJDkGk921yT9hISzFqpzw"
+        htmlUrl="https://www.youtube.com/channel/UConJDkGk921yT9hISzFqpzw"
+        title="Freethink" />
+      <outline text="Undecided with Matt Ferrell"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg"
+        htmlUrl="https://www.youtube.com/channel/UCjtUS7-SZTi6pXjUbzGHQCg"
+        title="Undecided with Matt Ferrell" />
+      <outline text="Dr Ben Miles"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUeZBocfxALSUdOgNJB5ySA"
+        htmlUrl="https://www.youtube.com/channel/UCUeZBocfxALSUdOgNJB5ySA"
+        title="Dr Ben Miles" />
+      <outline text="The Space Race"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeMcDx6-rOq_RlKSPehk2tQ"
+        htmlUrl="https://www.youtube.com/channel/UCeMcDx6-rOq_RlKSPehk2tQ"
+        title="The Space Race" />
+      <outline text="Tomorrow&apos;s Build"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN3aYbtQ7yCqk9DM56B0kEw"
+        htmlUrl="https://www.youtube.com/channel/UCN3aYbtQ7yCqk9DM56B0kEw"
+        title="Tomorrow&apos;s Build" />
+      <outline text="Solve"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWZSOxQoUdAqwoYsDzl8ycg"
+        htmlUrl="https://www.youtube.com/channel/UCWZSOxQoUdAqwoYsDzl8ycg"
+        title="Solve" />
     </outline>
     <outline text="Earth" title="Earth">
     </outline>
