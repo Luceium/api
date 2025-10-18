@@ -35,11 +35,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvVAxOBEAMgu7WwTcFptt-w"
       htmlUrl="https://www.youtube.com/channel/UCvVAxOBEAMgu7WwTcFptt-w"
       title="ifueko" />
-    <outline text="Wire Whiz"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7Od0m1gMVNHw1BCLZarWwQ"
-      htmlUrl="https://www.youtube.com/channel/UC7Od0m1gMVNHw1BCLZarWwQ"
-      title="Wire Whiz" />
     <outline text="Primer"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ"
@@ -75,11 +70,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2eBMUTYqZSLrRJ1EBwJv-A"
       htmlUrl="https://www.youtube.com/channel/UC2eBMUTYqZSLrRJ1EBwJv-A"
       title="Salim Benbouziyane" />
-    <outline text="ThrillSeeker"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA"
-      htmlUrl="https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA"
-      title="ThrillSeeker" />
     <outline text="I Like To Make Stuff"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6x7GwJxuoABSosgVXDYtTw"
@@ -290,11 +280,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWZSOxQoUdAqwoYsDzl8ycg"
       htmlUrl="https://www.youtube.com/channel/UCWZSOxQoUdAqwoYsDzl8ycg"
       title="Solve" />
-    <outline text="virtualreality"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/virtualreality/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/virtualreality/top?t=month"
-      title="virtualreality" />
     <outline text="esp32"
       type="rss"
       xmlUrl="https://www.reddit.com/r/esp32/top.rss?t=month&amp;limit=10"
@@ -425,11 +410,6 @@
       xmlUrl="https://www.reddit.com/r/solarpunk/top.rss?t=month&amp;limit=5"
       htmlUrl="https://www.reddit.com/r/solarpunk/top?t=month"
       title="solarpunk" />
-    <outline text="VRGaming"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/VRGaming/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/VRGaming/top?t=month"
-      title="VRGaming" />
     <outline text="RASPBERRY_PI_PROJECTS"
       type="rss"
       xmlUrl="https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/top.rss?t=month&amp;limit=5"
@@ -529,6 +509,26 @@
     <outline text="Hardware &amp; DIY/Makers" title="Hardware &amp; DIY/Makers">
     </outline>
     <outline text="Virtual Reality &amp; Gaming" title="Virtual Reality &amp; Gaming">
+      <outline text="Wire Whiz"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7Od0m1gMVNHw1BCLZarWwQ"
+        htmlUrl="https://www.youtube.com/channel/UC7Od0m1gMVNHw1BCLZarWwQ"
+        title="Wire Whiz" />
+      <outline text="ThrillSeeker"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA"
+        htmlUrl="https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA"
+        title="ThrillSeeker" />
+      <outline text="virtualreality"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/virtualreality/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/virtualreality/top?t=month"
+        title="virtualreality" />
+      <outline text="VRGaming"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/VRGaming/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/VRGaming/top?t=month"
+        title="VRGaming" />
     </outline>
     <outline text="Science &amp; Education" title="Science &amp; Education">
     </outline>
