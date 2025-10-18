@@ -40,11 +40,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ"
       htmlUrl="https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ"
       title="Primer" />
-    <outline text="Architectural Digest"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0k238zFx-Z8xFH0sxCrPJg"
-      htmlUrl="https://www.youtube.com/channel/UC0k238zFx-Z8xFH0sxCrPJg"
-      title="Architectural Digest" />
     <outline text="Hands On Katie"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLqQ5m7AXj_oyUvLZPsts0Q"
@@ -135,21 +130,11 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Lfb5wvuqFXaEiEJtJYAYg"
       htmlUrl="https://www.youtube.com/channel/UC9Lfb5wvuqFXaEiEJtJYAYg"
       title="Shaun Boyd Made This" />
-    <outline text="The Coding Train"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvjgXvBlbQiydffZU7m1_aw"
-      htmlUrl="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw"
-      title="The Coding Train" />
     <outline text="Undecided with Matt Ferrell"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg"
       htmlUrl="https://www.youtube.com/channel/UCjtUS7-SZTi6pXjUbzGHQCg"
       title="Undecided with Matt Ferrell" />
-    <outline text="DIY Machines"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3jc4X-kEq-dEDYhQ8QoYnQ"
-      htmlUrl="https://www.youtube.com/channel/UC3jc4X-kEq-dEDYhQ8QoYnQ"
-      title="DIY Machines" />
     <outline text="Beyond Fireship"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Xd-TjJByJyK2w1zNwY0zQ"
@@ -175,11 +160,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ"
       htmlUrl="https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ"
       title="Simone Giertz" />
-    <outline text="evan ugarte"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH6mGm6OSwm8nTvW2vsSJfA"
-      htmlUrl="https://www.youtube.com/channel/UCH6mGm6OSwm8nTvW2vsSJfA"
-      title="evan ugarte" />
     <outline text="braintruffle"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV4Rx1m-9HmtqHET7GjnVOA"
@@ -200,11 +180,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRSa16N_0dpnFXgUI1fGoSw"
       htmlUrl="https://www.youtube.com/channel/UCRSa16N_0dpnFXgUI1fGoSw"
       title="Futurism" />
-    <outline text="thejuicemedia"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKRw8GAAtm27q4R3Q0kst_g"
-      htmlUrl="https://www.youtube.com/channel/UCKRw8GAAtm27q4R3Q0kst_g"
-      title="thejuicemedia" />
     <outline text="Pezzza&apos;s Work"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFR-QlAx0qFHN9-QmcrpHnQ"
@@ -220,11 +195,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
       htmlUrl="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"
       title="Two Minute Papers" />
-    <outline text="Not Just Bikes"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0intLFzLaudFG-xAvUEO-A"
-      htmlUrl="https://www.youtube.com/channel/UC0intLFzLaudFG-xAvUEO-A"
-      title="Not Just Bikes" />
     <outline text="HeroTech"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZvlShWyyr0YWxsLYb-X4yw"
@@ -250,11 +220,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1OLx7nzJgIqwpDzFFrTuLA"
       htmlUrl="https://www.youtube.com/channel/UC1OLx7nzJgIqwpDzFFrTuLA"
       title="Mossy Earth" />
-    <outline text="Grand Designs"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEkXBM0H88oEWOo5J2Ds6cQ"
-      htmlUrl="https://www.youtube.com/channel/UCEkXBM0H88oEWOo5J2Ds6cQ"
-      title="Grand Designs" />
     <outline text="Philipp Lackner"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKNTZMRHPLXfqlbdOI7mCkg"
@@ -385,11 +350,6 @@
       xmlUrl="https://www.reddit.com/r/webdev/top.rss?t=month&amp;limit=10"
       htmlUrl="https://www.reddit.com/r/webdev/top?t=month"
       title="webdev" />
-    <outline text="hiddenrooms"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/hiddenrooms/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/hiddenrooms/top?t=month"
-      title="hiddenrooms" />
     <outline text="CableManagement"
       type="rss"
       xmlUrl="https://www.reddit.com/r/CableManagement/top.rss?t=month&amp;limit=1"
@@ -435,11 +395,6 @@
       xmlUrl="https://www.reddit.com/r/KotlinMultiplatform/top.rss?t=month&amp;limit=5"
       htmlUrl="https://www.reddit.com/r/KotlinMultiplatform/top?t=month"
       title="KotlinMultiplatform" />
-    <outline text="battlestations"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/battlestations/top.rss?t=month&amp;limit=10"
-      htmlUrl="https://www.reddit.com/r/battlestations/top?t=month"
-      title="battlestations" />
     <outline text="Technology &amp; Software Development" title="Technology &amp; Software Development">
       <outline text="Jeff Geerling"
         type="rss"
@@ -537,6 +492,31 @@
     <outline text="Earth" title="Earth">
     </outline>
     <outline text="Urban Design &amp; Architecture" title="Urban Design &amp; Architecture">
+      <outline text="Architectural Digest"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0k238zFx-Z8xFH0sxCrPJg"
+        htmlUrl="https://www.youtube.com/channel/UC0k238zFx-Z8xFH0sxCrPJg"
+        title="Architectural Digest" />
+      <outline text="Not Just Bikes"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0intLFzLaudFG-xAvUEO-A"
+        htmlUrl="https://www.youtube.com/channel/UC0intLFzLaudFG-xAvUEO-A"
+        title="Not Just Bikes" />
+      <outline text="Grand Designs"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEkXBM0H88oEWOo5J2Ds6cQ"
+        htmlUrl="https://www.youtube.com/channel/UCEkXBM0H88oEWOo5J2Ds6cQ"
+        title="Grand Designs" />
+      <outline text="hiddenrooms"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/hiddenrooms/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/hiddenrooms/top?t=month"
+        title="hiddenrooms" />
+      <outline text="battlestations"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/battlestations/top.rss?t=month&amp;limit=10"
+        htmlUrl="https://www.reddit.com/r/battlestations/top?t=month"
+        title="battlestations" />
     </outline>
     <outline text="Entrepreneurship &amp; Startups" title="Entrepreneurship &amp; Startups">
     </outline>
