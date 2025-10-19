@@ -50,11 +50,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvVAxOBEAMgu7WwTcFptt-w"
       htmlUrl="https://www.youtube.com/channel/UCvVAxOBEAMgu7WwTcFptt-w"
       title="ifueko" />
-    <outline text="Primer"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ"
-      htmlUrl="https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ"
-      title="Primer" />
     <outline text="Hands On Katie"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLqQ5m7AXj_oyUvLZPsts0Q"
@@ -80,11 +75,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6x7GwJxuoABSosgVXDYtTw"
       htmlUrl="https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw"
       title="I Like To Make Stuff" />
-    <outline text="ColdFusion"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A"
-      htmlUrl="https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A"
-      title="ColdFusion" />
     <outline text="Peak Design"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCXxVerycxB08muPJta5WBQ"
@@ -105,21 +95,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgfe2ooZD3VJPB6aJAnuQng"
       htmlUrl="https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng"
       title="bycloud" />
-    <outline text="NOVA PBS Official"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjHz5SVHeMT0AViCYZvsGDA"
-      htmlUrl="https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA"
-      title="NOVA PBS Official" />
-    <outline text="2swap"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiNLr9wX35KksK77mrQgxiw"
-      htmlUrl="https://www.youtube.com/channel/UCiNLr9wX35KksK77mrQgxiw"
-      title="2swap" />
-    <outline text="Emergent Garden"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwBhBDsqiQflTMLy2epbQVw"
-      htmlUrl="https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw"
-      title="Emergent Garden" />
     <outline text="bitsbits"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBs6FdG_17LHlydJbzY8FMQ"
@@ -135,16 +110,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Xd-TjJByJyK2w1zNwY0zQ"
       htmlUrl="https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ"
       title="Beyond Fireship" />
-    <outline text="Welch Labs"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UConVfxXodg78Tzh5nNu85Ew"
-      htmlUrl="https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew"
-      title="Welch Labs" />
-    <outline text="SciShow"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow"
-      htmlUrl="https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow"
-      title="SciShow" />
     <outline text="Drew Builds Stuff"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC073quTeFarhKNe8ZuC6Qig"
@@ -155,11 +120,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ"
       htmlUrl="https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ"
       title="Simone Giertz" />
-    <outline text="braintruffle"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV4Rx1m-9HmtqHET7GjnVOA"
-      htmlUrl="https://www.youtube.com/channel/UCV4Rx1m-9HmtqHET7GjnVOA"
-      title="braintruffle" />
     <outline text="Hacksmith Industries"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjgpFI5dU-D1-kh9H1muoxQ"
@@ -180,21 +140,11 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFR-QlAx0qFHN9-QmcrpHnQ"
       htmlUrl="https://www.youtube.com/channel/UCFR-QlAx0qFHN9-QmcrpHnQ"
       title="Pezzza&apos;s Work" />
-    <outline text="Two Minute Papers"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
-      htmlUrl="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"
-      title="Two Minute Papers" />
     <outline text="HeroTech"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZvlShWyyr0YWxsLYb-X4yw"
       htmlUrl="https://www.youtube.com/channel/UCZvlShWyyr0YWxsLYb-X4yw"
       title="HeroTech" />
-    <outline text="Veritasium"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
-      htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
-      title="Veritasium" />
     <outline text="Mossy Earth"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1OLx7nzJgIqwpDzFFrTuLA"
@@ -411,6 +361,56 @@
         title="VRGaming" />
     </outline>
     <outline text="Science &amp; Education" title="Science &amp; Education">
+      <outline text="ColdFusion"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A"
+        htmlUrl="https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A"
+        title="ColdFusion" />
+      <outline text="Primer"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ"
+        htmlUrl="https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ"
+        title="Primer" />
+      <outline text="NOVA PBS Official"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjHz5SVHeMT0AViCYZvsGDA"
+        htmlUrl="https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA"
+        title="NOVA PBS Official" />
+      <outline text="2swap"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiNLr9wX35KksK77mrQgxiw"
+        htmlUrl="https://www.youtube.com/channel/UCiNLr9wX35KksK77mrQgxiw"
+        title="2swap" />
+      <outline text="Emergent Garden"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwBhBDsqiQflTMLy2epbQVw"
+        htmlUrl="https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw"
+        title="Emergent Garden" />
+      <outline text="Welch Labs"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UConVfxXodg78Tzh5nNu85Ew"
+        htmlUrl="https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew"
+        title="Welch Labs" />
+      <outline text="SciShow"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow"
+        htmlUrl="https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow"
+        title="SciShow" />
+      <outline text="braintruffle"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV4Rx1m-9HmtqHET7GjnVOA"
+        htmlUrl="https://www.youtube.com/channel/UCV4Rx1m-9HmtqHET7GjnVOA"
+        title="braintruffle" />
+      <outline text="Two Minute Papers"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
+        htmlUrl="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"
+        title="Two Minute Papers" />
+      <outline text="Veritasium"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+        htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
+        title="Veritasium" />
     </outline>
     <outline text="Futurism" title="Futurism">
       <outline text="solarpunk"
