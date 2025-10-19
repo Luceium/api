@@ -20,6 +20,26 @@
       xmlUrl="https://hnrss.org/frontpage?points=100&amp;comments=25"
       htmlUrl="https://news.ycombinator.com/"
       title="Hacker News" />
+    <outline text="monkeyquest"
+      type="rss"
+      xmlUrl="https://www.reddit.com/r/monkeyquest/top.rss?t=month&amp;limit=1"
+      htmlUrl="https://www.reddit.com/r/monkeyquest/top?t=month"
+      title="monkeyquest" />
+    <outline text="Second Thought"
+      type="rss"
+      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJm2TgUqtK1_NLBrjNQ1P-w"
+      htmlUrl="https://www.youtube.com/channel/UCJm2TgUqtK1_NLBrjNQ1P-w"
+      title="Second Thought" />
+    <outline text="BuyItForLife"
+      type="rss"
+      xmlUrl="https://www.reddit.com/r/BuyItForLife/top.rss?t=month&amp;limit=5"
+      htmlUrl="https://www.reddit.com/r/BuyItForLife/top?t=month"
+      title="BuyItForLife" />
+    <outline text="techwearclothing"
+      type="rss"
+      xmlUrl="https://www.reddit.com/r/techwearclothing/top.rss?t=month&amp;limit=5"
+      htmlUrl="https://www.reddit.com/r/techwearclothing/top?t=month"
+      title="techwearclothing" />
     <outline text="The AI Timeline"
       type="rss"
       xmlUrl="https://rss.beehiiv.com/feeds/Vy37NcFo03.xml"
@@ -175,11 +195,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
       htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
       title="Veritasium" />
-    <outline text="Second Thought"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJm2TgUqtK1_NLBrjNQ1P-w"
-      htmlUrl="https://www.youtube.com/channel/UCJm2TgUqtK1_NLBrjNQ1P-w"
-      title="Second Thought" />
     <outline text="Mossy Earth"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1OLx7nzJgIqwpDzFFrTuLA"
@@ -220,16 +235,6 @@
       xmlUrl="https://www.reddit.com/r/software/top.rss?t=month&amp;limit=15"
       htmlUrl="https://www.reddit.com/r/software/top?t=month"
       title="software" />
-    <outline text="techwearclothing"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/techwearclothing/top.rss?t=month&amp;limit=5"
-      htmlUrl="https://www.reddit.com/r/techwearclothing/top?t=month"
-      title="techwearclothing" />
-    <outline text="BuyItForLife"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/BuyItForLife/top.rss?t=month&amp;limit=5"
-      htmlUrl="https://www.reddit.com/r/BuyItForLife/top?t=month"
-      title="BuyItForLife" />
     <outline text="PersonalWebsite"
       type="rss"
       xmlUrl="https://www.reddit.com/r/PersonalWebsite/top.rss?t=month&amp;limit=10"
@@ -240,11 +245,6 @@
       xmlUrl="https://www.reddit.com/r/androiddev/top.rss?t=month&amp;limit=10"
       htmlUrl="https://www.reddit.com/r/androiddev/top?t=month"
       title="androiddev" />
-    <outline text="Cyberpunk"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/Cyberpunk/top.rss?t=month&amp;limit=5"
-      htmlUrl="https://www.reddit.com/r/Cyberpunk/top?t=month"
-      title="Cyberpunk" />
     <outline text="technology"
       type="rss"
       xmlUrl="https://www.reddit.com/r/technology/top.rss?t=month&amp;limit=10"
@@ -260,11 +260,6 @@
       xmlUrl="https://www.reddit.com/r/ArtificialInteligence/top.rss?t=month&amp;limit=10"
       htmlUrl="https://www.reddit.com/r/ArtificialInteligence/top?t=month"
       title="ArtificialInteligence" />
-    <outline text="monkeyquest"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/monkeyquest/top.rss?t=month&amp;limit=1"
-      htmlUrl="https://www.reddit.com/r/monkeyquest/top?t=month"
-      title="monkeyquest" />
     <outline text="SoftwareEngineering"
       type="rss"
       xmlUrl="https://www.reddit.com/r/SoftwareEngineering/top.rss?t=month&amp;limit=10"
@@ -300,16 +295,6 @@
       xmlUrl="https://www.reddit.com/r/arduino/top.rss?t=month&amp;limit=5"
       htmlUrl="https://www.reddit.com/r/arduino/top?t=month"
       title="arduino" />
-    <outline text="desksetup"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/desksetup/top.rss?t=month&amp;limit=5"
-      htmlUrl="https://www.reddit.com/r/desksetup/top?t=month"
-      title="desksetup" />
-    <outline text="solarpunk"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/solarpunk/top.rss?t=month&amp;limit=5"
-      htmlUrl="https://www.reddit.com/r/solarpunk/top?t=month"
-      title="solarpunk" />
     <outline text="RASPBERRY_PI_PROJECTS"
       type="rss"
       xmlUrl="https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/top.rss?t=month&amp;limit=5"
@@ -428,6 +413,16 @@
     <outline text="Science &amp; Education" title="Science &amp; Education">
     </outline>
     <outline text="Futurism" title="Futurism">
+      <outline text="solarpunk"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/solarpunk/top.rss?t=month&amp;limit=5"
+        htmlUrl="https://www.reddit.com/r/solarpunk/top?t=month"
+        title="solarpunk" />
+      <outline text="Cyberpunk"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/Cyberpunk/top.rss?t=month&amp;limit=5"
+        htmlUrl="https://www.reddit.com/r/Cyberpunk/top?t=month"
+        title="Cyberpunk" />
       <outline text="Roots of Progress"
         type="rss"
         xmlUrl="https://kill-the-newsletter.com/feeds/hwtfucmhwx8njuant190.xml"
@@ -464,8 +459,6 @@
         htmlUrl="https://www.youtube.com/channel/UCWZSOxQoUdAqwoYsDzl8ycg"
         title="Solve" />
     </outline>
-    <outline text="Earth" title="Earth">
-    </outline>
     <outline text="Urban Design &amp; Architecture" title="Urban Design &amp; Architecture">
       <outline text="Architectural Digest"
         type="rss"
@@ -492,6 +485,11 @@
         xmlUrl="https://www.reddit.com/r/battlestations/top.rss?t=month&amp;limit=10"
         htmlUrl="https://www.reddit.com/r/battlestations/top?t=month"
         title="battlestations" />
+      <outline text="desksetup"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/desksetup/top.rss?t=month&amp;limit=5"
+        htmlUrl="https://www.reddit.com/r/desksetup/top?t=month"
+        title="desksetup" />
     </outline>
     <outline text="Entrepreneurship &amp; Startups" title="Entrepreneurship &amp; Startups">
       <outline text="Founders Inc"
