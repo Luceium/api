@@ -45,16 +45,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb72Gn5LXaLEcsOuPKGfQOg"
       htmlUrl="https://www.youtube.com/channel/UCb72Gn5LXaLEcsOuPKGfQOg"
       title="DW Planet A" />
-    <outline text="Futurism"
-      type="rss"
-      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRSa16N_0dpnFXgUI1fGoSw"
-      htmlUrl="https://www.youtube.com/channel/UCRSa16N_0dpnFXgUI1fGoSw"
-      title="Futurism" />
-    <outline text="CableManagement"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/CableManagement/top.rss?t=month&amp;limit=1"
-      htmlUrl="https://www.reddit.com/r/CableManagement/top?t=month"
-      title="CableManagement" />
     <outline text="techwearclothing"
       type="rss"
       xmlUrl="https://www.reddit.com/r/techwearclothing/top.rss?t=month&amp;limit=5"
@@ -413,6 +403,11 @@
         title="Veritasium" />
     </outline>
     <outline text="Futurism" title="Futurism">
+      <outline text="Futurism"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRSa16N_0dpnFXgUI1fGoSw"
+        htmlUrl="https://www.youtube.com/channel/UCRSa16N_0dpnFXgUI1fGoSw"
+        title="Futurism" />
       <outline text="solarpunk"
         type="rss"
         xmlUrl="https://www.reddit.com/r/solarpunk/top.rss?t=month&amp;limit=5"
@@ -490,6 +485,11 @@
         xmlUrl="https://www.reddit.com/r/desksetup/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/desksetup/top?t=month"
         title="desksetup" />
+      <outline text="CableManagement"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/CableManagement/top.rss?t=month&amp;limit=1"
+        htmlUrl="https://www.reddit.com/r/CableManagement/top?t=month"
+        title="CableManagement" />
     </outline>
     <outline text="Entrepreneurship &amp; Startups" title="Entrepreneurship &amp; Startups">
       <outline text="Founders Inc"
