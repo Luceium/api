@@ -1,7 +1,7 @@
 <opml version="2.0">
   <head>
     <title>
-      NewsFlash OPML export
+      Mau's RSS Feeds
     </title>
   </head>
   <body>
@@ -17,14 +17,9 @@
       title="a1.gallery" />
     <outline text="Hacker News"
       type="rss"
-      xmlUrl="https://hnrss.org/frontpage?points=100&amp;comments=25"
+      xmlUrl="https://hnrss.org/frontpage?points=150&amp;comments=25"
       htmlUrl="https://news.ycombinator.com/"
       title="Hacker News" />
-    <outline text="monkeyquest"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/monkeyquest/top.rss?t=month&amp;limit=1"
-      htmlUrl="https://www.reddit.com/r/monkeyquest/top?t=month"
-      title="monkeyquest" />
     <outline text="Second Thought"
       type="rss"
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJm2TgUqtK1_NLBrjNQ1P-w"
@@ -45,11 +40,6 @@
       xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb72Gn5LXaLEcsOuPKGfQOg"
       htmlUrl="https://www.youtube.com/channel/UCb72Gn5LXaLEcsOuPKGfQOg"
       title="DW Planet A" />
-    <outline text="techwearclothing"
-      type="rss"
-      xmlUrl="https://www.reddit.com/r/techwearclothing/top.rss?t=month&amp;limit=5"
-      htmlUrl="https://www.reddit.com/r/techwearclothing/top?t=month"
-      title="techwearclothing" />
     <outline text="Technology &amp; Software Development" title="Technology &amp; Software Development">
       <outline text="Jeff Geerling"
         type="rss"
@@ -93,7 +83,7 @@
         title="cybersecurity" />
       <outline text="software"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/software/top.rss?t=month&amp;limit=15"
+        xmlUrl="https://www.reddit.com/r/software/top.rss?t=month&amp;limit=10"
         htmlUrl="https://www.reddit.com/r/software/top?t=month"
         title="software" />
       <outline text="PersonalWebsite"
@@ -103,7 +93,7 @@
         title="PersonalWebsite" />
       <outline text="androiddev"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/androiddev/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/androiddev/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/androiddev/top?t=month"
         title="androiddev" />
       <outline text="technology"
@@ -141,11 +131,6 @@
         xmlUrl="https://www.reddit.com/r/webdev/top.rss?t=month&amp;limit=10"
         htmlUrl="https://www.reddit.com/r/webdev/top?t=month"
         title="webdev" />
-      <outline text="computerscience"
-        type="rss"
-        xmlUrl="https://www.reddit.com/r/computerscience/top.rss?t=month&amp;limit=5"
-        htmlUrl="https://www.reddit.com/r/computerscience/top?t=month"
-        title="computerscience" />
       <outline text="KotlinMultiplatform"
         type="rss"
         xmlUrl="https://www.reddit.com/r/KotlinMultiplatform/top.rss?t=month&amp;limit=5"
@@ -170,17 +155,17 @@
         title="Learn Linux TV" />
       <outline text="linux"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/linux/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/linux/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/linux/top?t=month"
         title="linux" />
       <outline text="linux4noobs"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/linux4noobs/top.rss?t=month&amp;limit=5"
+        xmlUrl="https://www.reddit.com/r/linux4noobs/top.rss?t=month&amp;limit=3"
         htmlUrl="https://www.reddit.com/r/linux4noobs/top?t=month"
         title="linux4noobs" />
       <outline text="opensource"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/opensource/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/opensource/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/opensource/top?t=month"
         title="opensource" />
     </outline>
@@ -195,11 +180,6 @@
         xmlUrl="https://www.reddit.com/r/smarthome/top.rss?t=month&amp;limit=10"
         htmlUrl="https://www.reddit.com/r/smarthome/top?t=month"
         title="smarthome" />
-      <outline text="pihole"
-        type="rss"
-        xmlUrl="https://www.reddit.com/r/pihole/top.rss?t=month&amp;limit=3"
-        htmlUrl="https://www.reddit.com/r/pihole/top?t=month"
-        title="pihole" />
       <outline text="selfhosted"
         type="rss"
         xmlUrl="https://www.reddit.com/r/selfhosted/top.rss?t=month&amp;limit=10"
@@ -237,11 +217,6 @@
         xmlUrl="https://www.reddit.com/r/raspberry_pi/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/raspberry_pi/top?t=month"
         title="raspberry_pi" />
-      <outline text="RASPBERRY_PI_PROJECTS"
-        type="rss"
-        xmlUrl="https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/top.rss?t=month&amp;limit=5"
-        htmlUrl="https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/top?t=month"
-        title="RASPBERRY_PI_PROJECTS" />
       <outline text="functionalprint"
         type="rss"
         xmlUrl="https://www.reddit.com/r/functionalprint/top.rss?t=month&amp;limit=10"
@@ -341,12 +316,12 @@
         title="ThrillSeeker" />
       <outline text="virtualreality"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/virtualreality/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/virtualreality/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/virtualreality/top?t=month"
         title="virtualreality" />
       <outline text="VRGaming"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/VRGaming/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/VRGaming/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/VRGaming/top?t=month"
         title="VRGaming" />
     </outline>
@@ -361,11 +336,6 @@
         xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ"
         htmlUrl="https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ"
         title="Primer" />
-      <outline text="NOVA PBS Official"
-        type="rss"
-        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjHz5SVHeMT0AViCYZvsGDA"
-        htmlUrl="https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA"
-        title="NOVA PBS Official" />
       <outline text="2swap"
         type="rss"
         xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiNLr9wX35KksK77mrQgxiw"
@@ -381,11 +351,6 @@
         xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UConVfxXodg78Tzh5nNu85Ew"
         htmlUrl="https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew"
         title="Welch Labs" />
-      <outline text="SciShow"
-        type="rss"
-        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow"
-        htmlUrl="https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow"
-        title="SciShow" />
       <outline text="braintruffle"
         type="rss"
         xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV4Rx1m-9HmtqHET7GjnVOA"
@@ -408,14 +373,9 @@
         xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRSa16N_0dpnFXgUI1fGoSw"
         htmlUrl="https://www.youtube.com/channel/UCRSa16N_0dpnFXgUI1fGoSw"
         title="Futurism" />
-      <outline text="solarpunk"
-        type="rss"
-        xmlUrl="https://www.reddit.com/r/solarpunk/top.rss?t=month&amp;limit=5"
-        htmlUrl="https://www.reddit.com/r/solarpunk/top?t=month"
-        title="solarpunk" />
       <outline text="Cyberpunk"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/Cyberpunk/top.rss?t=month&amp;limit=5"
+        xmlUrl="https://www.reddit.com/r/Cyberpunk/top.rss?t=month&amp;limit=3"
         htmlUrl="https://www.reddit.com/r/Cyberpunk/top?t=month"
         title="Cyberpunk" />
       <outline text="Roots of Progress"
@@ -472,12 +432,12 @@
         title="Grand Designs" />
       <outline text="hiddenrooms"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/hiddenrooms/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/hiddenrooms/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/hiddenrooms/top?t=month"
         title="hiddenrooms" />
       <outline text="battlestations"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/battlestations/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/battlestations/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/battlestations/top?t=month"
         title="battlestations" />
       <outline text="desksetup"
@@ -485,11 +445,6 @@
         xmlUrl="https://www.reddit.com/r/desksetup/top.rss?t=month&amp;limit=5"
         htmlUrl="https://www.reddit.com/r/desksetup/top?t=month"
         title="desksetup" />
-      <outline text="CableManagement"
-        type="rss"
-        xmlUrl="https://www.reddit.com/r/CableManagement/top.rss?t=month&amp;limit=1"
-        htmlUrl="https://www.reddit.com/r/CableManagement/top?t=month"
-        title="CableManagement" />
     </outline>
     <outline text="Entrepreneurship &amp; Startups" title="Entrepreneurship &amp; Startups">
       <outline text="Founders Inc"
@@ -504,17 +459,17 @@
         title="Jason Carman" />
       <outline text="startups"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/startups/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/startups/top.rss?t=month&amp;limit=3"
         htmlUrl="https://www.reddit.com/r/startups/top?t=month"
         title="startups" />
       <outline text="ProductHunters"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/ProductHunters/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/ProductHunters/top.rss?t=month&amp;limit=3"
         htmlUrl="https://www.reddit.com/r/ProductHunters/top?t=month"
         title="ProductHunters" />
       <outline text="EntrepreneurRideAlong"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/EntrepreneurRideAlong/top.rss?t=month&amp;limit=10"
+        xmlUrl="https://www.reddit.com/r/EntrepreneurRideAlong/top.rss?t=month&amp;limit=3"
         htmlUrl="https://www.reddit.com/r/EntrepreneurRideAlong/top?t=month"
         title="EntrepreneurRideAlong" />
     </outline>
@@ -538,7 +493,7 @@
         title="Luma SF Events" />
       <outline text="Neotropolis"
         type="rss"
-        xmlUrl="https://www.reddit.com/r/Neotropolis/top.rss?t=month&amp;limit=5"
+        xmlUrl="https://www.reddit.com/r/Neotropolis/top.rss?t=month&amp;limit=3"
         htmlUrl="https://www.reddit.com/r/Neotropolis/top?t=month"
         title="Neotropolis" />
     </outline>
