@@ -474,6 +474,16 @@
         xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq2E1mIwUKMWzCA4liA_XGQ"
         htmlUrl="https://www.youtube.com/channel/UCq2E1mIwUKMWzCA4liA_XGQ"
         title="Pick Up Limes" />
+      <outline text="malefashionadvice"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/malefashionadvice/top.rss?t=year&amp;limit=30"
+        htmlUrl="https://www.reddit.com/r/malefashionadvice/top?t=year"
+        title="malefashionadvice" />
+      <outline text="productivity"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/productivity/top.rss?t=year&amp;limit=30"
+        htmlUrl="https://www.reddit.com/r/productivity/top?t=year"
+        title="productivity" />
     </outline>
     <outline text="Local/Events" title="Local/Events">
       <outline text="Luma SF Events"
@@ -486,8 +496,6 @@
         xmlUrl="https://www.reddit.com/r/Neotropolis/top.rss?t=year&amp;limit=15"
         htmlUrl="https://www.reddit.com/r/Neotropolis/top?t=year"
         title="Neotropolis" />
-    </outline>
-    <outline text="Fiction" title="Fiction">
     </outline>
   </body>
 </opml>
